@@ -18,8 +18,8 @@ app.get("/", (req, res) => {
 
 app.post("/submit", (req, res) => {
 
-   const lenAjd  = adj.length  -  1;
-   const lenNoun = noun.length  - 1;
+   const lenAjd  = adj.length  ;
+   const lenNoun = noun.length ;
    var randomAdjIndex  = Math.floor(Math.random() * lenAjd ) ;
    var randonNounIndex = Math.floor(Math.random() * lenNoun)  ;
    var randomAjd  = adj[randomAdjIndex]   ;
