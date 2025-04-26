@@ -17,10 +17,13 @@ band-generator/ ├── public/ │ └── styles/ │ └── main.css �
    git clone https://github.com/kawther27/band-generator.git
    cd band-generator
 2. Install dependencies:
+   ```bash
     npm install
 3. Run the app:
+    ```bash
    nodemon index.js
-4. Open your browser and go to: http://localhost:3000
+4. Open your browser and go to:
+    http://localhost:3000
 ## ✨ Preview
 
 ### 🎵 Main page:
