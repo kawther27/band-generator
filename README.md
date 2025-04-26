@@ -14,7 +14,7 @@ band-generator/ ├── public/ │ └── styles/ │ └── main.css �
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TON-USERNAME/band-generator.git
+   git clone https://github.com/kawther27/band-generator.git
    cd band-generator
 2. Install dependencies:
    ```npm install
